@@ -24,10 +24,16 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.jpg",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.akt007.instagramclone"
     },
     "web": {
       "favicon": "./assets/jpg.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "cf18e364-8943-43f3-9f53-46db2cb0fac7"
+      }
     }
   }
 }
